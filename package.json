@@ -1,0 +1,22 @@
+{
+  "name": "smlcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "CyberHD1811",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyberHD1811/smlcode/issues"
+  },
+  "homepage": "https://github.com/CyberHD1811/smlcode#readme",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
+}
