@@ -15,6 +15,13 @@ console.log(smlCode(5, 8));
 
 ---
 
+#### Warning:
+
+You will get an Error if you use the function without defining both Values.
+You will als get an Error if one one the Values is not a number.
+
+---
+
 ## Documentation:
 
 - #### smlCode(section, innersection):
