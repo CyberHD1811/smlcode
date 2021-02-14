@@ -1,7 +1,7 @@
 {
   "name": "smlcode",
-  "version": "1.1.2",
-  "description": "",
+  "version": "1.2.0",
+  "description": "A small generator for charnumeric strings.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "type": "module",
