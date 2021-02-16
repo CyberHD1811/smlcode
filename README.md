@@ -6,7 +6,7 @@ This is a small package to create a custom code.
 
 <br>
 
-```ts
+```js
 import { smlCode } from 'smlcode';
 
 const chars = 'abcdefghijklmnopqrstuvwxyz0123456789';
