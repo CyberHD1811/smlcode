@@ -1,5 +1,7 @@
 # smlcode
 
+# ! This package is _NO_ longer suppoorted. Please do not use it any longer. !
+
 ---
 
 This is a small package to create a custom code.
